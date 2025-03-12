@@ -1,0 +1,3 @@
+My folder Structure
+
+Assignment - Algorithm,SqlServerDB,C#
